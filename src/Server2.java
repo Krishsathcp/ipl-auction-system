@@ -750,7 +750,7 @@ public class Server2 {
 class IPLAuctionDB1 {
     private static final String URL = "jdbc:mysql://localhost:3306/";
     private static final String USER = "root";
-    private static final String PASSWORD = "Manjari03*";
+    private static final String PASSWORD = "your_password";
     private static final String DB_NAME = "ipl_auction_2025";
     
     public static Connection setupDatabase(Connection connection) {
