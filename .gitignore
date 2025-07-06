@@ -24,8 +24,6 @@ ehthumbs.db
 config/
 *.properties
 
-# === External Libraries (Optional) ===
-lib/mysql-connector-j-*.jar
 
 # === Build Directories ===
 bin/
