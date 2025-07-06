@@ -1,0 +1,41 @@
+# === Java Compiled Files ===
+*.class
+
+# === Logs ===
+*.log
+
+# === OS Generated Files ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# === IDE Files ===
+.idea/
+*.iml
+.vscode/
+
+# === Temporary Files ===
+*~
+*.swp
+*.swo
+*.tmp
+
+# === Database Configs (if used) ===
+config/
+*.properties
+
+# === External Libraries (Optional) ===
+lib/mysql-connector-j-*.jar
+
+# === Build Directories ===
+bin/
+out/
+build/
+target/
+
+# === System-Specific ===
+*.bak
+*.old
+
+# === Ignore bat compile artifacts ===
+scripts/*.class
