@@ -22,27 +22,27 @@
 ## 📦 Folder Structure
 
 ipl-auction-system/
+│
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 │
-├── docs/ # Documentation or design diagrams
-├── lib/
-│ └── mysql-connector-j-9.1.0.jar
+├── bin/                       # Compiled .class files
+│   ├── AuctionClientGUI*.class
+│   ├── IPLAuctionDB1.class
+│   └── Server2*.class
 │
-├── scripts/
-│ ├── start_client.bat
-│ └── start_server.bat
+├── lib/
+│   └── mysql-connector-j-9.1.0.jar
+│
+├── scripts/                  # Easy launchers
+│   ├── start_client.bat      ✅ Double-click to start client
+│   ├── start_server.bat      ✅ Double-click to start server
 │
 ├── src/
-│ ├── AuctionClientGUI.java
-│ └── server2.java
+│   ├── AuctionClientGUI.java
+│   └── Server2.java
 
-yaml
-Copy
-Edit
-
----
 
 ## 🧰 Requirements
 
