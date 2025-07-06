@@ -150,9 +150,10 @@ Server shuts down with final stats
 
 👨‍💻 Author
 Krishsath CP
+
 📧 Email: cpkrishsath@gmail.com
 🔗 LinkedIn: Krishsath CP
-💻 GitHub: @krishsath
+💻 GitHub: @Krishsathcp
 
 📄 License
 This project is licensed under the MIT License.
