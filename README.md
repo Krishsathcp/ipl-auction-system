@@ -8,16 +8,6 @@
 
 > ⚡ Real-time cross-device IPL auction experience using Java, Swing, and MySQL. Perfect for coding events, hackathons, or cricket-lovers!
 
----
-
-## 📸 Preview
-
-> 🎨 Improved UI with light theme, high-contrast buttons, and professional UX.
-
-<img src="https://user-images.githubusercontent.com/your-preview-image-client.png" width="600"/>
-<img src="https://user-images.githubusercontent.com/your-preview-image-server.png" width="600"/>
-
----
 
 ## 📦 Folder Structure
 
