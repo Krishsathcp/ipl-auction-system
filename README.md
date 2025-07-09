@@ -9,30 +9,29 @@
 > ⚡ Real-time cross-device IPL auction experience using Java, Swing, and MySQL. Perfect for coding events, hackathons, or cricket-lovers!
 
 
-## 📦 Folder Structure
+📦 Folder Structure
 
 ipl-auction-system/
 │
-├── .gitignore
-├── LICENSE
-├── README.md
+├── .gitignore                  # Git exclusions
+├── LICENSE                     # MIT License file
+├── README.md                   # Project documentation
 │
-├── bin/                       # Compiled .class files
+├── bin/                        # Compiled .class files
 │   ├── AuctionClientGUI*.class
 │   ├── IPLAuctionDB1.class
 │   └── Server2*.class
 │
-├── lib/
+├── lib/                        # External libraries
 │   └── mysql-connector-j-9.1.0.jar
 │
-├── scripts/                  # Easy launchers
-│   ├── start_client.bat      ✅ Double-click to start client
-│   ├── start_server.bat      ✅ Double-click to start server
+├── scripts/                    # Easy launchers
+│   ├── start_client.bat        ✅ Double-click to start client
+│   └── start_server.bat        ✅ Double-click to start server
 │
-├── src/
-│   ├── AuctionClientGUI.java
-│   └── Server2.java
-
+├── src/                        # Source code
+│   ├── AuctionClientGUI.java   # Client-side GUI logic
+│   └── Server2.java            # Server-side auction logic
 
 
 ## 🧰 Requirements
