@@ -59,18 +59,12 @@ Connection conn = DriverManager.getConnection(
 📌 No need to manually create database — it auto-generates ipl_auction_2025.
 
 2. 🚀 Running the Server
-bash
-Copy
-Edit
 scripts/start_server.bat
 Compiles server Java file
 
 Starts auction server on port 1234
 
 3. 🎮 Running the Client
-bash
-Copy
-Edit
 scripts/start_client.bat
 Launches the auction client GUI
 
@@ -90,8 +84,25 @@ Change the socket line:
 Socket socket = new Socket("192.168.1.5", 1234);
 Recompile via start_client.bat
 
+🚀 How to Run
+✅ Double-click start_server.bat first, then double-click start_client.bat
+
+🖥️ Start the Server
+scripts/start_server.bat
+Compiles Server2.java
+Launches auction server on port 1234
+
+🧑‍💻 Start the Client
+bash
+Copy
+Edit
+scripts/start_client.bat
+Launches the GUI from AuctionClientGUI.java
+
+Connects to the auction server
+
 ✅ Auction Rules & Constraints
-Rule	Value
+        Rule	Value
 💸 Initial Purse	₹12,000
 👤 Max Players per Team	25
 🌍 Max Foreign Players	8
