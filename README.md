@@ -161,7 +161,7 @@ Server shuts down with final stats
 👨‍💻 Author
 Krishsath CP
 
-## 📬 Contact Me
+📬 Contact Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/krishsath-cp-59754532a/)
 - 💻 [GitHub](https://github.com/Krishsathcp)
