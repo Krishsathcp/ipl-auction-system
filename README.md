@@ -161,12 +161,12 @@ Server shuts down with final stats
 👨‍💻 Author
 Krishsath CP
 
-📧 Email: cpkrishsath@gmail.com
-🔗 LinkedIn: Krishsath CP
-💻 GitHub: @Krishsathcp
+## 📬 Contact Me
 
-📄 License
-This project is licensed under the MIT License.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishsath-cp-59754532a/)
+- 💻 [GitHub](https://github.com/Krishsathcp)
+- 📧 Email: cpkrishsath@gmail.com
+
 
 🏁 Let the Auction Begin!
 ⚡ Tag your friends, assign franchises, and relive the IPL thrill with your own mini-auction system!
