@@ -1,4 +1,4 @@
-# 🏏 IPL Auction System (Java + Swing + MySQL)
+🏏 IPL Auction System (Java + Swing + MySQL)
 
 [![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://www.oracle.com/java/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)](https://www.mysql.com/)
@@ -6,35 +6,44 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20LAN%20Cross%20Device-yellow)]()
 [![UI](https://img.shields.io/badge/UI-Swing-lightgrey?logo=java)]()
 
-> ⚡ Real-time cross-device IPL auction experience using Java, Swing, and MySQL. Perfect for coding events, hackathons, or cricket-lovers!
+⚡ Real-time cross-device IPL auction experience using Java, Swing, and MySQL. Perfect for coding events, hackathons, or cricket-lovers!
 
 
 📦 Folder Structure
+.gitignore – Git exclusions.
 
-ipl-auction-system/
-│
-├── .gitignore                  # Git exclusions
-├── LICENSE                     # MIT License file
-├── README.md                   # Project documentation
-│
-├── bin/                        # Compiled .class files
-│   ├── AuctionClientGUI*.class
-│   ├── IPLAuctionDB1.class
-│   └── Server2*.class
-│
-├── lib/                        # External libraries
-│   └── mysql-connector-j-9.1.0.jar
-│
-├── scripts/                    # Easy launchers
-│   ├── start_client.bat        ✅ Double-click to start client
-│   └── start_server.bat        ✅ Double-click to start server
-│
-├── src/                        # Source code
-│   ├── AuctionClientGUI.java   # Client-side GUI logic
-│   └── Server2.java            # Server-side auction logic
+LICENSE – Project license under MIT.
+
+README.md – Project documentation.
+
+bin/ – Contains compiled .class files:
+
+AuctionClientGUI*.class
+
+IPLAuctionDB1.class
+
+Server2*.class
+
+lib/ – External libraries:
+
+mysql-connector-j-9.1.0.jar
+
+scripts/ – Batch files to launch the system:
+
+start_client.bat – ✅ Double-click to start client.
+
+start_server.bat – ✅ Double-click to start server.
+
+src/ – Contains source code:
+
+AuctionClientGUI.java – Client-side GUI logic.
+
+Server2.java – Server-side auction logic.
 
 
-## 🧰 Requirements
+
+
+🧰 Requirements
 
 - ✅ Java 8 or later (preferably JDK 17)
 - ✅ MySQL Server (default: localhost:3306)
@@ -43,9 +52,9 @@ ipl-auction-system/
 
 ---
 
-## ⚙️ Setup Instructions
+⚙️ Setup Instructions
 
-### 1. 🔧 MySQL Configuration
+1. 🔧 MySQL Configuration
 
 Update your MySQL credentials inside `IPLAuctionDB1.java`:
 
