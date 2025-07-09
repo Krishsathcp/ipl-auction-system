@@ -10,35 +10,33 @@
 
 
 📦 Folder Structure
-    .gitignore – Git exclusions.
+.gitignore – Git exclusions.
     
-    LICENSE – Project license under MIT.
+README.md – Project documentation.
     
-    README.md – Project documentation.
+bin/ – Contains compiled .class files:
     
-    bin/ – Contains compiled .class files:
+AuctionClientGUI*.class
     
-    AuctionClientGUI*.class
+IPLAuctionDB1.class
     
-    IPLAuctionDB1.class
+Server2*.class
     
-    Server2*.class
+lib/ – External libraries:
     
-    lib/ – External libraries:
+mysql-connector-j-9.1.0.jar
     
-    mysql-connector-j-9.1.0.jar
+scripts/ – Batch files to launch the system:
     
-    scripts/ – Batch files to launch the system:
+start_client.bat – ✅ Double-click to start client.
     
-    start_client.bat – ✅ Double-click to start client.
+start_server.bat – ✅ Double-click to start server.
     
-    start_server.bat – ✅ Double-click to start server.
+src/ – Contains source code:
     
-    src/ – Contains source code:
+AuctionClientGUI.java – Client-side GUI logic.
     
-    AuctionClientGUI.java – Client-side GUI logic.
-    
-    Server2.java – Server-side auction logic.
+Server2.java – Server-side auction logic.
 
 
 
