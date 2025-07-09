@@ -156,6 +156,7 @@ Server shuts down with final stats
 
  WebSocket-based frontend (React)
 
+```
 👨‍💻 Author
 Krishsath CP
 
@@ -168,4 +169,3 @@ Krishsath CP
 
 🏁 Let the Auction Begin!
 ⚡ Tag your friends, assign franchises, and relive the IPL thrill with your own mini-auction system!
-```
